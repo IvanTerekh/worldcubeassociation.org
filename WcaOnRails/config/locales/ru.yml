@@ -7,7 +7,7 @@ ru:
     #original_hash: 459f987
     XS: Несколько стран (Южная Америка)
     #original_hash: 374ac0d
-    XM: null
+    XM: Несколько стран (Америка)
     #original_hash: 918c53a
     MO: Макао
     #original_hash: 2f488ff
@@ -16,19 +16,19 @@ ru:
     KR: Корея
   continents:
     #original_hash: 0f138c8
-    Multiple Continents: null
+    Multiple Continents: Несколько континентов
     #original_hash: 1d35114
-    Africa: null
+    Africa: Африка
     #original_hash: a173e72
-    Asia: null
+    Asia: Азия
     #original_hash: 576347e
-    Europe: null
+    Europe: Европа
     #original_hash: 247ce5d
-    North America: null
+    North America: Северная Америка
     #original_hash: 3642950
-    Oceania: null
+    Oceania: Океания
     #original_hash: b1ffb4c
-    South America: null
+    South America: Южная Америка
   events:
     #original_hash: 3732390
     '222': Кубик 2x2x2
@@ -172,9 +172,9 @@ ru:
       #original_hash: c01adfa
       across_rounds: 'Суммарно %{time} на %{rounds}'
     #original_hash: f030c3d
-    333fm: null
+    333fm: "1 час"
     #original_hash: 2c2abd5
-    333mbf: null
+    333mbf: "10 минут на куб"
   common:
     #original_hash: 2513cf0
     continent: Континент
@@ -218,7 +218,7 @@ ru:
       many: 'этими %{count} дисциплинами'
       other: 'WTF %{count}'
     #original_hash: 51ef7d4
-    search_site: null
+    search_site: Поиск по сайту
     #original_hash: d7decf1
     filter: null
     #original_hash: f6fdbe4
@@ -347,13 +347,13 @@ ru:
         #original_hash: 0eb5ed5
         information: Информация
         #original_hash: 87b7d5f
-        use_wca_registration: Использовать сайт WCA для регистрации
+        use_wca_registration: "Использовать сайт WCA для регистрации"
         #original_hash: a2dfcf8
-        competitor_limit_enabled: null
+        competitor_limit_enabled: "Я хотел бы указать лимит количества участников, которые могут участвовать в этом соревноваании."
         #original_hash: 749f4c9
-        competitor_limit: null
+        competitor_limit: "Максимальное количество участников"
         #original_hash: 4a8b6f1
-        competitor_limit_reason: null
+        competitor_limit_reason: "Причина установления лимита на количество участников"
         #original_hash: 3c23a67
         guests_enabled: Гости
         #original_hash: 089cbfd
@@ -369,9 +369,9 @@ ru:
         #original_hash: c5497bc
         competition_events: Дисциплины
         #original_hash: 71c8461
-        enable_donations: null
+        enable_donations: "Я хотел бы активировать пожертвования в дополнение к взносам за участие"
         #original_hash: 4baf44b
-        championship_type: null
+        championship_type: "Тип чемпионата"
       registration:
         #original_hash: 3c23a67
         guests: Гости
@@ -431,9 +431,9 @@ ru:
         #original_hash: 6f915a2
         sticky: Закрепить
         #original_hash: 848eed0
-        tags: null
+        tags: "Теги"
         #original_hash: fb4002e
-        show_on_homepage: null
+        show_on_homepage: "Показывать на домашней странице"
       team:
         #original_hash: 709a232
         name: Название
@@ -444,60 +444,60 @@ ru:
         comment: Комментарий
       competition_medium:
         #original_hash: 1917f4f
-        competitionId: null
+        competitionId: "Соревнования"
         #original_hash: 3deb745
-        type: null
+        type: "Тип"
         #original_hash: c3328c3
-        text: null
+        text: "Текст"
         #original_hash: d051707
-        uri: null
+        uri: "Ссылка"
         #original_hash: 1be755a
-        submitterName: null
+        submitterName: "Имя отправителя"
         #original_hash: 78cdfee
-        submitterEmail: null
+        submitterEmail: "Email отправителя"
         #original_hash: 0d31f23
-        submitterComment: null
+        submitterComment: "Комментарий отправителя"
         #original_hash: bae7d5b
-        status: null
+        status: "Статус"
   enums:
     user:
       gender:
         #original_hash: 3f3a489
-        m: null
+        m: "Мужской"
         #original_hash: b7c17e9
-        f: null
+        f: "Женский"
         #original_hash: 6e6a6f2
-        o: null
+        o: "Другой"
       delegate_status:
         #original_hash: 28ec02d
-        candidate_delegate: null
+        candidate_delegate: "Кандидат в делегаты"
         #original_hash: 12ab214
-        delegate: null
+        delegate: "Делегат"
         #original_hash: d463c23
-        senior_delegate: null
+        senior_delegate: "Старший делегат"
         #original_hash: 660ee15
-        board_member: null
+        board_member: "Член правления"
     person:
       gender:
         #original_hash: 3f3a489
-        m: null
+        m: "Мужской"
         #original_hash: b7c17e9
-        f: null
+        f: "Женский"
         #original_hash: 6e6a6f2
-        o: null
+        o: "Другой"
     competition_medium:
       status:
         #original_hash: 61a0572
-        accepted: null
+        accepted: "Одобрено"
         #original_hash: 96f608c
-        pending: null
+        pending: "В ожидании"
       type:
         #original_hash: ee45c30
-        report: null
+        report: "Отчёт"
         #original_hash: 4360c2d
-        article: null
+        article: "Статья"
         #original_hash: 82dabd0
-        multimedia: null
+        multimedia: "Мультимедиа"
   simple_form:
     #original_hash: 5397e05
     'yes': Да
@@ -638,9 +638,9 @@ ru:
         #original_hash: c0ab502
         competitor_limit_enabled: null
         #original_hash: b9bc84d
-        competitor_limit: null
+        competitor_limit: "Допустимое количество участников"
         #original_hash: 4bd7102
-        competitor_limit_reason: null
+        competitor_limit_reason: "Какова причина установления лимита на количество участников? Пожалуйста, заполните на английском!"
         #original_hash: da39a3e
         venueAddress: ''
         #original_hash: da39a3e
@@ -925,7 +925,7 @@ ru:
       #original_hash: 1fa73f3
       regulations: Положения WCA
       #original_hash: 6bce1b5
-      about_regulations: null
+      about_regulations: О положениях
       #original_hash: 141d1d7
       guidelines: Дополнения
       #original_hash: c4622c3
@@ -1529,13 +1529,13 @@ ru:
       #original_hash: b37456c
       contact: Контакты
       #original_hash: 32946e9
-      competitor_limit: null
+      competitor_limit: Лимит участников
       #original_hash: a428739
       entry_fee: Взнос за участие
       #original_hash: 0eb5ed5
       information: Информация
       #original_hash: c5497bc
-      events: null
+      events: Дисциплины
     index:
       #original_hash: db98a68
       title: Соревнования
@@ -1648,7 +1648,7 @@ ru:
       #original_hash: c5497bc
       events: Дисциплины
       #original_hash: 09b819f
-      deprecated_events: null
+      deprecated_events: Устаревшие дисциплины
       #original_hash: 815d5c3
       locked_edit_html: >-
         Соревнование доступно массам, его нельзя отредактировать. Если вам надо
@@ -1890,13 +1890,13 @@ ru:
       championship_podiums: Подиумы чемпионатов
       championship_podium_levels:
         #original_hash: 3746f3b
-        world: null
+        world: "Подиумы чемпионатов мира"
         #original_hash: d248cd7
-        continental: null
+        continental: "Подиумы континентальных чемпионатов"
         #original_hash: aa40175
-        national: null
+        national: "Подиумы национальных чемпионатов"
         #original_hash: 868be55
-        greater_china: null
+        greater_china: "Подиумы чемпионатов Китая"
       #original_hash: c32a014
       place: Место
       #original_hash: ddb18c1
@@ -1949,7 +1949,7 @@ ru:
         Используйте эту форму, если день вашего рождения указан в нашей базе
         данных неверно.
       #original_hash: 563d056
-      important_message_html: null
+      important_message_html: '<span class="text-danger">ВАЖНО</span>: Прикрепите фотографию <u>официального документа</u> (id-екмкарта, водительское удостоверение, паспорт...), на котором указаны ваше имя и дата рождения.'
       #original_hash: 19c17ec
       submit: Запросить изменение
     messages:
